@@ -1,0 +1,464 @@
+[
+    {
+        "book_color": "#ccccff",
+        "book_number": 10,
+        "long_name": "БУТТЯ",
+        "short_name": "1 М.",
+        "sorting_order": 100
+    },
+    {
+        "book_color": "#ccccff",
+        "book_number": 20,
+        "long_name": "ВИХІД",
+        "short_name": "2 М.",
+        "sorting_order": 200
+    },
+    {
+        "book_color": "#ccccff",
+        "book_number": 30,
+        "long_name": "ЛЕВІТИ",
+        "short_name": "3 М.",
+        "sorting_order": 300
+    },
+    {
+        "book_color": "#ccccff",
+        "book_number": 40,
+        "long_name": "ЧИСЛА",
+        "short_name": "4 М.",
+        "sorting_order": 400
+    },
+    {
+        "book_color": "#ccccff",
+        "book_number": 50,
+        "long_name": "ВТОРОЗАКОННЯ",
+        "short_name": "5 М.",
+        "sorting_order": 500
+    },
+    {
+        "book_color": "#ffcc99",
+        "book_number": 60,
+        "long_name": "КНИГА ІСУСА НАВИНА",
+        "short_name": "Іс. Нав.",
+        "sorting_order": 600
+    },
+    {
+        "book_color": "#ffcc99",
+        "book_number": 70,
+        "long_name": "КНИГА СУДДІВ",
+        "short_name": "Суд.",
+        "sorting_order": 700
+    },
+    {
+        "book_color": "#ffcc99",
+        "book_number": 80,
+        "long_name": "РУТ",
+        "short_name": "Рут.",
+        "sorting_order": 800
+    },
+    {
+        "book_color": "#ffcc99",
+        "book_number": 90,
+        "long_name": "1 САМУЇЛА",
+        "short_name": "1 Сам.",
+        "sorting_order": 900
+    },
+    {
+        "book_color": "#ffcc99",
+        "book_number": 100,
+        "long_name": "2 САМУЇЛА",
+        "short_name": "2 Сам.",
+        "sorting_order": 1000
+    },
+    {
+        "book_color": "#ffcc99",
+        "book_number": 110,
+        "long_name": "1 ЦАРІВ",
+        "short_name": "1 Цар.",
+        "sorting_order": 1100
+    },
+    {
+        "book_color": "#ffcc99",
+        "book_number": 120,
+        "long_name": "2 ЦАРІВ",
+        "short_name": "2 Цар.",
+        "sorting_order": 1200
+    },
+    {
+        "book_color": "#ffcc99",
+        "book_number": 130,
+        "long_name": "1 ХРОНІК",
+        "short_name": "1 Хр.",
+        "sorting_order": 1300
+    },
+    {
+        "book_color": "#ffcc99",
+        "book_number": 140,
+        "long_name": "2 ХРОНІК",
+        "short_name": "2 Хр.",
+        "sorting_order": 1400
+    },
+    {
+        "book_color": "#ffcc99",
+        "book_number": 150,
+        "long_name": "ЕЗДРИ",
+        "short_name": "Езд.",
+        "sorting_order": 1500
+    },
+    {
+        "book_color": "#ffcc99",
+        "book_number": 160,
+        "long_name": "НЕЄМІЇ",
+        "short_name": "Неєм.",
+        "sorting_order": 1600
+    },
+    {
+        "book_color": "#ffcc99",
+        "book_number": 190,
+        "long_name": "ЕСТЕР",
+        "short_name": "Ест.",
+        "sorting_order": 1700
+    },
+    {
+        "book_color": "#66ff99",
+        "book_number": 220,
+        "long_name": "ЙОВА",
+        "short_name": "Йов",
+        "sorting_order": 1800
+    },
+    {
+        "book_color": "#66ff99",
+        "book_number": 230,
+        "long_name": "ПСАЛМИ",
+        "short_name": "Пс.",
+        "sorting_order": 1900
+    },
+    {
+        "book_color": "#66ff99",
+        "book_number": 240,
+        "long_name": "ПРИТЧІ",
+        "short_name": "Пр.",
+        "sorting_order": 2000
+    },
+    {
+        "book_color": "#66ff99",
+        "book_number": 250,
+        "long_name": "ЕКЛЕЗІАСТА",
+        "short_name": "Екл.",
+        "sorting_order": 2100
+    },
+    {
+        "book_color": "#66ff99",
+        "book_number": 260,
+        "long_name": "ПІСНЯ ПІСЕНЬ",
+        "short_name": "Пісн.",
+        "sorting_order": 2200
+    },
+    {
+        "book_color": "#ff9fb4",
+        "book_number": 290,
+        "long_name": "ІСАЇ",
+        "short_name": "Іс.",
+        "sorting_order": 2300
+    },
+    {
+        "book_color": "#ff9fb4",
+        "book_number": 300,
+        "long_name": "ЄРЕМІЇ",
+        "short_name": "Єр.",
+        "sorting_order": 2400
+    },
+    {
+        "book_color": "#ff9fb4",
+        "book_number": 310,
+        "long_name": "ПЛАЧ ЄРЕМІЇ",
+        "short_name": "Плач.",
+        "sorting_order": 2500
+    },
+    {
+        "book_color": "#ff9fb4",
+        "book_number": 330,
+        "long_name": "ЄЗЕКІЇЛЯ",
+        "short_name": "Єз.",
+        "sorting_order": 2600
+    },
+    {
+        "book_color": "#ff9fb4",
+        "book_number": 340,
+        "long_name": "ДАНИЇЛА",
+        "short_name": "Дан.",
+        "sorting_order": 2700
+    },
+    {
+        "book_color": "#ffff99",
+        "book_number": 350,
+        "long_name": "ОСІЇ",
+        "short_name": "Ос.",
+        "sorting_order": 2800
+    },
+    {
+        "book_color": "#ffff99",
+        "book_number": 360,
+        "long_name": "ЙОІЛА",
+        "short_name": "Йоіл",
+        "sorting_order": 2900
+    },
+    {
+        "book_color": "#ffff99",
+        "book_number": 370,
+        "long_name": "АМОСА",
+        "short_name": "Ам.",
+        "sorting_order": 3000
+    },
+    {
+        "book_color": "#ffff99",
+        "book_number": 380,
+        "long_name": "АВДІЯ",
+        "short_name": "Авд.",
+        "sorting_order": 3100
+    },
+    {
+        "book_color": "#ffff99",
+        "book_number": 390,
+        "long_name": "ЙОНИ",
+        "short_name": "Йона",
+        "sorting_order": 3200
+    },
+    {
+        "book_color": "#ffff99",
+        "book_number": 400,
+        "long_name": "МІХЕЯ",
+        "short_name": "Міх.",
+        "sorting_order": 3300
+    },
+    {
+        "book_color": "#ffff99",
+        "book_number": 410,
+        "long_name": "НАУМА",
+        "short_name": "Наум",
+        "sorting_order": 3400
+    },
+    {
+        "book_color": "#ffff99",
+        "book_number": 420,
+        "long_name": "АВВАКУМА",
+        "short_name": "Ав.",
+        "sorting_order": 3500
+    },
+    {
+        "book_color": "#ffff99",
+        "book_number": 430,
+        "long_name": "СОФОНІЇ",
+        "short_name": "Соф.",
+        "sorting_order": 3600
+    },
+    {
+        "book_color": "#ffff99",
+        "book_number": 440,
+        "long_name": "АГГЕЯ",
+        "short_name": "Агг.",
+        "sorting_order": 3700
+    },
+    {
+        "book_color": "#ffff99",
+        "book_number": 450,
+        "long_name": "ЗАХАРІЇ",
+        "short_name": "Зах.",
+        "sorting_order": 3800
+    },
+    {
+        "book_color": "#ffff99",
+        "book_number": 460,
+        "long_name": "МАЛАХІЇ",
+        "short_name": "Мал.",
+        "sorting_order": 3900
+    },
+    {
+        "book_color": "#ff6600",
+        "book_number": 470,
+        "long_name": "МАТВІЯ",
+        "short_name": "Мт.",
+        "sorting_order": 4000
+    },
+    {
+        "book_color": "#ff6600",
+        "book_number": 480,
+        "long_name": "МАРКА",
+        "short_name": "Мр.",
+        "sorting_order": 4100
+    },
+    {
+        "book_color": "#ff6600",
+        "book_number": 490,
+        "long_name": "ЛУКИ",
+        "short_name": "Лк.",
+        "sorting_order": 4200
+    },
+    {
+        "book_color": "#ff6600",
+        "book_number": 500,
+        "long_name": "ІВАНА",
+        "short_name": "Ів.",
+        "sorting_order": 4300
+    },
+    {
+        "book_color": "#00ffff",
+        "book_number": 510,
+        "long_name": "ДІЇ",
+        "short_name": "Дії",
+        "sorting_order": 4400
+    },
+    {
+        "book_color": "#ffff00",
+        "book_number": 520,
+        "long_name": "РИМЛЯН",
+        "short_name": "Рим.",
+        "sorting_order": 4500
+    },
+    {
+        "book_color": "#ffff00",
+        "book_number": 530,
+        "long_name": "1 КОРИНТЯН",
+        "short_name": "1 Кор.",
+        "sorting_order": 4600
+    },
+    {
+        "book_color": "#ffff00",
+        "book_number": 540,
+        "long_name": "2 КОРИНТЯН",
+        "short_name": "2 Кор.",
+        "sorting_order": 4700
+    },
+    {
+        "book_color": "#ffff00",
+        "book_number": 550,
+        "long_name": "ГАЛАТІВ",
+        "short_name": "Гал.",
+        "sorting_order": 4800
+    },
+    {
+        "book_color": "#ffff00",
+        "book_number": 560,
+        "long_name": "ЕФЕСЯН",
+        "short_name": "Еф.",
+        "sorting_order": 4900
+    },
+    {
+        "book_color": "#ffff00",
+        "book_number": 570,
+        "long_name": "ФИЛИП’ЯН",
+        "short_name": "Фил.",
+        "sorting_order": 5000
+    },
+    {
+        "book_color": "#ffff00",
+        "book_number": 580,
+        "long_name": "КОЛОСЯН",
+        "short_name": "Кол.",
+        "sorting_order": 5100
+    },
+    {
+        "book_color": "#ffff00",
+        "book_number": 590,
+        "long_name": "1 СОЛУНЯН",
+        "short_name": "1 Сол.",
+        "sorting_order": 5200
+    },
+    {
+        "book_color": "#ffff00",
+        "book_number": 600,
+        "long_name": "2 СОЛУНЯН",
+        "short_name": "2 Сол.",
+        "sorting_order": 5300
+    },
+    {
+        "book_color": "#ffff00",
+        "book_number": 610,
+        "long_name": "1 ТИМОФІЯ",
+        "short_name": "1 Тим.",
+        "sorting_order": 5400
+    },
+    {
+        "book_color": "#ffff00",
+        "book_number": 620,
+        "long_name": "2 ТИМОФІЯ",
+        "short_name": "2 Тим.",
+        "sorting_order": 5500
+    },
+    {
+        "book_color": "#ffff00",
+        "book_number": 630,
+        "long_name": "ТИТА",
+        "short_name": "Тит",
+        "sorting_order": 5600
+    },
+    {
+        "book_color": "#ffff00",
+        "book_number": 640,
+        "long_name": "ФИЛИМОНА",
+        "short_name": "Филим.",
+        "sorting_order": 5700
+    },
+    {
+        "book_color": "#ffff00",
+        "book_number": 650,
+        "long_name": "ЄВРЕЇВ",
+        "short_name": "Євр.",
+        "sorting_order": 5800
+    },
+    {
+        "book_color": "#00ff00",
+        "book_number": 660,
+        "long_name": "ЯКОВА",
+        "short_name": "Як.",
+        "sorting_order": 5900
+    },
+    {
+        "book_color": "#00ff00",
+        "book_number": 670,
+        "long_name": "1 ПЕТРА",
+        "short_name": "1 Пет.",
+        "sorting_order": 6000
+    },
+    {
+        "book_color": "#00ff00",
+        "book_number": 680,
+        "long_name": "2 ПЕТРА",
+        "short_name": "2 Пет.",
+        "sorting_order": 6100
+    },
+    {
+        "book_color": "#00ff00",
+        "book_number": 690,
+        "long_name": "1 ІВАНА",
+        "short_name": "1 Ів.",
+        "sorting_order": 6200
+    },
+    {
+        "book_color": "#00ff00",
+        "book_number": 700,
+        "long_name": "2 ІВАНА",
+        "short_name": "2 Ів.",
+        "sorting_order": 6300
+    },
+    {
+        "book_color": "#00ff00",
+        "book_number": 710,
+        "long_name": "3 ІВАНА",
+        "short_name": "3 Ів.",
+        "sorting_order": 6400
+    },
+    {
+        "book_color": "#00ff00",
+        "book_number": 720,
+        "long_name": "ЮДИ",
+        "short_name": "Юд.",
+        "sorting_order": 6500
+    },
+    {
+        "book_color": "#ff7c80",
+        "book_number": 730,
+        "long_name": "ОБ’ЯВЛЕННЯ",
+        "short_name": "Об.",
+        "sorting_order": 6600
+    }
+]
